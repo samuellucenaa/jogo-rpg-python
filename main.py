@@ -90,9 +90,5 @@ gerar_npcs(5)
 npc_selecionado = lista_npcs[0] 
 
 iniciar_batalha(npc_selecionado)
-iniciar_batalha(npc_selecionado)
-iniciar_batalha(npc_selecionado)
-iniciar_batalha(npc_selecionado)
-iniciar_batalha(npc_selecionado)
 
 exibir_jogador()
